@@ -32,4 +32,4 @@ Compilar y ejecutar `Main.java`. Se abre una ventana de JavaFX para trabajar con
 ### 🧑‍💻 Autor
 
 Nicolás Martín Doyhenart |
-Tecnicatura en Programación - UTN FRA
+Tecnicatura universitaria en Programación - UTN FRA
