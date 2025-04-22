@@ -1,0 +1,7 @@
+=== LISTADO DE PRODUCTOS ===
+
+Nombre          Precio     Stock    Detalles                                          
+==========================================================================================
+Iphone 14 Pro Max $1000.00   6        Modelo: Iphone 14 Pro Max | Precio: 1000.0 | Stock: 6 | Sistema operativo: IOS | Señal: 5G
+Lenovo IdeaPad s800 $650.00    1        Modelo: Lenovo IdeaPad s800 | Precio: 650.0 | Stock: 1 | Tamaño de la pantalla: 17.9 | Tarjeta grafica: no
+Redragon Kumara K552  $45.00     30       Périferico: Redragon Kumara K552  | Precio: 45.0 | Stock: 30 | Tipo: null | Resistente al agua: No

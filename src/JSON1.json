@@ -1,0 +1,25 @@
+[
+  {
+    "sistemaOp": "IOS",
+    "senialCaptada": "5G",
+    "nombre": "Iphone 14 Pro Max",
+    "precio": 1000.0,
+    "stock": 6,
+    "tipo": "Celular"
+  },
+  {
+    "tamanioPantalla": 17.9,
+    "tieneTarjetaGrafica": "no",
+    "nombre": "Lenovo IdeaPad s800",
+    "precio": 650.0,
+    "stock": 1,
+    "tipo": "Laptop"
+  },
+  {
+    "tipo": "Periferico",
+    "resistenteAgua": "No",
+    "nombre": "Redragon Kumara K552 ",
+    "precio": 45.0,
+    "stock": 30
+  }
+]
