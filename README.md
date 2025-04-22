@@ -21,7 +21,7 @@ Este proyecto es una aplicación de escritorio codificada en Java, utilizando Ja
 ![Edición](capturas/edicion-productos.png)
 
 ### Diagrama UML:
-![UML](capturas/uml-diagrama.png)
+[![diagramaaaaa.png](https://i.postimg.cc/tJVnp6wY/diagramaaaaa.png)](https://postimg.cc/q64vGNkT)
 
 ## 🚀 Ejecución
 
