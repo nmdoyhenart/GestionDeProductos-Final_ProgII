@@ -1,4 +1,4 @@
-# 🖥️ Proyecto Final - Gestión de Productos
+# 🖥️ Proyecto final Programación II- Gestión de Productos
 
 Este proyecto es una aplicación de escritorio codificada en Java, utilizando JavaFX para la parte visual del programa, que nos permite gestionar productos tecnológicos varios como Celulares, Laptops y Periféricos (Mouse, teclado, auriculares).
 
@@ -13,12 +13,6 @@ Este proyecto es una aplicación de escritorio codificada en Java, utilizando Ja
 - Excepciones personalizadas.
 
 ## 🗂️ Estructura
-
-### Pantalla Principal:
-![Pantalla Principal](capturas/pantalla-principal.png)
-
-### Edición de Productos:
-![Edición](capturas/edicion-productos.png)
 
 ### Diagrama UML:
 [![diagramaaaaa.png](https://i.postimg.cc/tJVnp6wY/diagramaaaaa.png)](https://postimg.cc/q64vGNkT)
