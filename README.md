@@ -21,6 +21,9 @@ Este proyecto es una aplicación de escritorio codificada en Java, utilizando Ja
 
 Compilar y ejecutar `Main.java`. Se abre una ventana de JavaFX para trabajar con los productos deseados, con todas las herramientas necesarias para un trabajo detallado y preciso en la carga de datos, en este caso, de una sistema diseñado para ventas tecnologicas!
 
+### Pantalla inicial:
+[![pantalla-inicial.png](https://i.postimg.cc/MT8NF4hS/pantalla-inicial.png)](https://postimg.cc/CZmcZvhP)
+
 -----
 
 ### 🧑‍💻 Autor
